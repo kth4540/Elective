@@ -1,0 +1,70 @@
+
+1. why is human language unique/a singularity? 
+->symbolic communication system that is learned instead of biologically inherited
+
+2. what are symbols in a language?
+->symbol: sounds or things which have meaning. the meaning is arbitrarily assigned
+
+3. what consists of a word?
+-> a word is one or more sounds with a specific meaning. the symbolic meaning of words can be powerful
+
+4. what's the difference between language and speech?
+-> speech=patterned verbal behavior, language=set of rules for generating speech
+
+common concepts of language features
+
+1. Creativity(Generativity) of language
+2. the presumed primacy of speech over writing
+3. the universality of language among human beings
+4. a symbolic communication system that is learned
+
+##dialect
+
+	1. regional dialect
+
+		it's associated with a geographically isolated speech community
+
+	2. social dialect
+
+		socially isolated. based on class, ethnicity, gender, age, particular social situation
+
+	cockney: spoken by working-class londoners.
+
+	received pronounciation: acent of standard english in the uk, with speakers including the british royal family
+
+##pidgin(혼성어)
+
+	a simplified , makeshift language that develops to fulfill the community needs of people to interact for commercial and other reasons
+
+	limited amount of the voca and grammer of the different language
+
+	also speak their own native language
+
+	for colonization and trade
+
+	pidgin english(new guinea), pidgn french(west africa, carribbean), zulus(south africa), malays(soutwest asia),
+	 arabs(north africa),chinook(american indian)
+
+##creole language(크리올어)
+
+	pidgin language becomes the mother tongue of a population
+
+	1.pidgins>>into creols over several generations
+
+	2.their vocabularies enlarge
+
+	3. common for creole speakers to also speak another standard language
+
+	haitian creole(a french-african pidgin became the creole language)
+
+	French(상류층끼리)
+
+	different versions of pidgin english:gulla or geechee
+
+	papua new guinea, sierra leone
+
+diglossia or code switching
+
+	people quicky switch back and force between dialects(or creole and another language)
+
+	black english, public school english(upper class), cocknet dialect(lower class)
